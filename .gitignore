@@ -15,7 +15,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+pyjoin/s/
 lib64/
 parts/
 sdist/

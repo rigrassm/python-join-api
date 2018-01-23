@@ -40,6 +40,6 @@ setup(name='python-join-api',
       author='Nolan Gilley',
       author_email='nkgilley@gmail.com',
       license='MIT',
-      install_requires=['requests>=2.0'],
+      install_requires=['requests>=2.0', 'fire'],
       packages=['pyjoin'],
       zip_safe=True)
